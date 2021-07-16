@@ -8,6 +8,7 @@
 * _React_
 * _Github_
 * _JSX_
+* _Redux_
 
 ## Application Component Diagram
 ![ScreenShot](/ComponentTree.png)
