@@ -19,6 +19,7 @@ _This application allows users to create and update a list of kegs_
 <details>
   <summary>Setup/installation Requirements:open_file_folder:</summary>
   
+  
 ## Setup and Use
 
 ### Prerequisites
